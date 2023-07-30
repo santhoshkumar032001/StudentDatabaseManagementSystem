@@ -1,0 +1,46 @@
+@charset "ISO-8859-1";
+body{
+	background-image:url(https://wallpaperaccess.com/full/2006458.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.table{
+		padding: 15px;
+	border-radius: 2px;
+	border: 3px black solid;
+	margin-left: 33px;
+}
+.name{
+	
+	font-family:serif,monospace;
+	font-weight:700;
+	font-size:x-large;
+
+}
+.password{
+	font-family:serif,monospace;
+	font-weight:700;
+	font-size:x-large;
+	font-variant:small-caps;
+	
+}
+.email{
+	font-family:serif,monospace;
+	font-weight:700;
+	font-size:x-large;
+	font-variant:small-caps;
+	
+}
+.sex{
+	font-family:serif,monospace;
+	font-weight:700;
+	font-size:x-large;
+	font-variant:small-caps;
+	
+}
+.country{
+	font-family:serif,monospace;
+	font-weight:700;
+	font-size:x-large;
+	font-variant:small-caps;
+}

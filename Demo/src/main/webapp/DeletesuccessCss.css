@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+body{
+		background-image:url(https://cdn.wallpapersafari.com/64/22/eZfJTr.jpg);
+	background-repeat: no-repeat;
+	background-size:cover;
+
+}
+.success{
+	font-family:Helvetica;
+	font-size:x-large;
+	font-size:medium;
+	padding:3px;
+	  position: relative;
+  background-color:gray;
+  margin-top:230px;
+}
